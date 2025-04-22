@@ -1,3 +1,3 @@
 ﻿<p>
-Php site with MVC. 
+Php site with mvc. 
 </p>
